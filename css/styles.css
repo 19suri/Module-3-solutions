@@ -1,0 +1,75 @@
+body {
+    font-size: 16px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: antiquewhite;
+  }
+  
+  
+  .container{
+    margin:0%;
+  }
+  
+  /** HEADER **/
+  #header-nav {
+    background-color:yellow;
+    border-radius: 0;
+    border: 0;
+  }
+  
+  .navbar-header{
+    /*text-align: left;*/
+    font-size: 2em;
+    color:black;
+  }
+
+  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid black;
+  }
+  .navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+  }
+
+
+  #collapsable-nav a { /* Collapsed nav menu text */
+    font-size: 1.2em;
+  }
+  #collapsable-nav a span { /* Collapsed nav menu glyph */
+    font-size: 1em;
+    margin-right: 5px;
+  }
+  
+  /**HEADING**/
+  .manage p{
+    font-size: 1.7em;
+    text-align: center;
+    font-style: bold;
+    color:black
+  }
+  
+  /**CONTENT**/
+
+  *{
+    box-sizing: border-box;
+  }
+  
+  
+  #Chicken,#Beef,#Sushi {
+    background-color:darkgrey;
+    border:1px solid;
+    margin: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    overflow: auto;
+  }
+  
+  .h1{
+    font-size:1.2em;
+    font-style: bold;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+  }
+  
+ 
+
