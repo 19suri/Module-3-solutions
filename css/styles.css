@@ -38,6 +38,14 @@ body {
     font-size: 1em;
     margin-right: 5px;
   }
+
+  #nav-list{
+    text-align: center;
+  }
+
+  .lis{
+    border: 1px solid black;
+  }
   
   /**HEADING**/
   .manage p{
@@ -72,4 +80,3 @@ body {
   }
   
  
-
